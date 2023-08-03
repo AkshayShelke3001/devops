@@ -1,2 +1,4 @@
 New Application
 Login window
+Profile picture
+Home Address
