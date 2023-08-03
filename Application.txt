@@ -3,3 +3,6 @@ Login window
 Profile picture
 Home Address
 Mobile Number
+Aadhar Number
+PAN Number
+DOB
