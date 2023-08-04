@@ -6,3 +6,4 @@ Mobile Number
 Aadhar Number
 PAN Number
 DOB
+School Name
